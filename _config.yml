@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Site Title
+title: Arc Music Company
 locale: en_US
 description: Describe your website here.
-logo: site-logo.png
+logo: logo_1.png
 search: true
 url: http://localhost:4000
 
@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Arc Music Co.
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:

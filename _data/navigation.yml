@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Home
+  url: /
 
-- title: Articles
-  url: /articles/
+- title: Artists
+  url: /artists/
 
-- title: Blog
-  url: /blog/
+- title: Buy Music
+  url: /http://arcmusicco.tictail.com/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Merchandise
+  url: /http://arcmusicco.tictail.com/
 
 - title: Search
   url: /search/
