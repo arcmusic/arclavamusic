@@ -1,0 +1,16 @@
+---
+layout: page
+title: The Company
+excerpt: "ARC MUSIC CO. ARC MUSIC CO. ARC MUSIC CO. enter text"
+image:
+  feature: header_main.png
+---
+
+insert text
+<figure class="third">
+	<a href="/artists/nova-casanova"><img src="/images/now-printing.png" alt="image"></a>
+	<a href="/artists/"><img src="/images/now-printing.png" alt="image"></a>
+	<a href="/artists/"><img src="/images/now-printing.png" alt="image"></a>
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+## Our Sound
