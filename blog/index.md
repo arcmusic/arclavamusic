@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Artists
-excerpt: "Learn about our artists. Click on an artist to view their discography, preview and buy their music"
+title: Blog
+excerpt: "An archive of blog posts sorted by date."
 search_omit: true
-image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 <ul class="post-list">
