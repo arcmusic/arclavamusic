@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Arc Music Company
+title: Arclava Music Company
 locale: en_US
 description: Describe your website here.
 logo: logo_1.png
@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Arc Music Co.
+  name: Arclava Music Company
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:

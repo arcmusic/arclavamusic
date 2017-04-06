@@ -119,7 +119,7 @@ span + .entry-title {
 	@include font-size(14);
 
 	a {
-		color: $text-color;
+		color: #000;
 	}
 
 	@include media($large) {
