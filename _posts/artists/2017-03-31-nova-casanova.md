@@ -13,9 +13,9 @@ modified: 2017-03-31T14:17:25-04:00
 categories: artists
 tags: [nova casanova]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: 
+  credit: 
+  creditlink:
 comments: true
 share: true
 ---

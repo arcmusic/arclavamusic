@@ -6,6 +6,7 @@ description: Arclava Music Company, publishing ultra-rock, unique artists and al
 logo: site-logo1.png
 search: true
 url: http://arclavamusic.com
+excerpt_separator: "" 
 
 # Jekyll configuration
 
