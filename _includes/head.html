@@ -4,9 +4,6 @@
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 {% if page.author %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
-{% if page.keywords %} <meta name="keywords" content="{{ page.keywords }}" />
-  {% else %}
- <meta name="keywords" content="your-default-comma-separated-keywords" />
 {% endif %}
 
 {% include open-graph.html %}
