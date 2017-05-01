@@ -6,7 +6,7 @@ modified: 2017-03-31T14:17:25-04:00
 categories: artists
 tags: [nova casanova]
 image:
-  feature: 
+  feature: nova_header.png
   credit: 
   creditlink:
 comments: true
