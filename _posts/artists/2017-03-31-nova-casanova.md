@@ -1,13 +1,6 @@
 ---
 layout: post
 title:  Nova Casanova
-style: |
-  body {
-        background: #fff;
-        color: black;
-  .footer p {
-        color: black;
-    }
 excerpt: "Singer/songwriter following the ultra-rock musical style with rock, pop and folk influences."
 modified: 2017-03-31T14:17:25-04:00
 categories: artists
