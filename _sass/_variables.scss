@@ -27,13 +27,13 @@ $border-color             : #ddd;
 $white                    : #fff;
 $black                    : #000;
 $accent-color             : $white;
-$link-color               : #222;
+$link-color               : #fff;
 
 $table-border-color       : $border-color;
 $table-border             : 1px solid $table-border-color;
 $table-background         : $body-color;
 $table-header-color       : lighten($table-background, 10);
-$table-hover-color        : darken($table-background, 2);
+$table-hover-color        : $text-color;
 $table-stripe-color       : darken($table-background, 4);
 $table-stripe-color-hover : darken($table-stripe-color, 5);
 
