@@ -6,7 +6,7 @@ search_omit: true
 image:
   feature: artists_header_thin.png
   credit: 
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  creditlink:
 ---
 
 <ul class="post-list">

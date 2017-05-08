@@ -2,7 +2,7 @@
 
 title: Arclava Music Company
 locale: en_US
-description: Arclava Music Company, publishing ultra-rock, unique artists and albums for the ultimate listening pleasure.
+description: Publishing ultra-rock, unique artists and albums for the ultimate listening pleasure.
 logo: site-logo1.png
 search: true
 url: http://arclavamusic.com
@@ -20,6 +20,21 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-spotify-plugin
+
+spotify:
+  theme: "dark"
+  open: true
+  sass:
+    jekyll: true
+    dir: "/_sass/vendor/"
+  title:
+    enable: true
+    text: "Jekyll Spotify Plugin"
+  content:
+    enable: true
+    text: |
+      Jekyll plugin to generate html snippets for embedding Spotify Musics. To listen to the full song, open your Spotify and start these musics.
 
 kramdown:
   input: GFM

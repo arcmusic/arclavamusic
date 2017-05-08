@@ -15,7 +15,7 @@ share: true
 # About Artist
 
 Nova Casanova is a singer/songwriter following the ultra-rock musical style with rock, pop and folk influences.
-Nova is an accomplished singer and guitarist, and innovative bass player. Also proficient in electronic keyboards. 
+Nova is an accomplished singer and guitarist and is also proficient in electronic keyboards. 
 Nova's influences range from singers such as: *Nat King Cole* and *Dusty Springfield*, to *John Lennon* and *Elton John*.
 He finds a greater part of his inspiration while watching period dramas and crime tv-shows! 
 
