@@ -12,7 +12,7 @@ image:
 comments: true
 share: true
 ---
-# About Artist
+# About the Artist
 
 Nova Casanova is a singer/songwriter following the ultra-rock musical style with rock, pop and folk influences.
 Nova is an accomplished singer and guitarist and is also proficient in electronic keyboards. 
@@ -30,4 +30,7 @@ He finds a greater part of his inspiration while watching period dramas and crim
 	<a href="link to shop" class="btn">Buy Digital</a>
 	<a href="link to shop" class="btn">Buy CD Album</a>
 </figure>
+
+### Sample Tracks
+{% spotify spotify/artist/5brwziUK4V1H4YWHTC5p6e %}
 
