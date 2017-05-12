@@ -32,5 +32,5 @@ He finds a greater part of his inspiration while watching period dramas and crim
 </figure>
 
 ### Sample Tracks
-{% spotify spotify/artist/5brwziUK4V1H4YWHTC5p6e %}
+{% spotify [spotify/artist/5brwziUK4V1H4YWHTC5p6e] %}
 
