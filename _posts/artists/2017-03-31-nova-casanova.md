@@ -12,6 +12,9 @@ image:
 comments: true
 share: true
 ---
+# Listen
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A37i9dQZF1DX84kJlLdo9vT" width="500" height="300" frameborder="0" allowtransparency="true"></iframe>
+
 # About the Artist
 
 Nova Casanova is a singer/songwriter following the ultra-rock musical style with rock, pop and folk influences.
@@ -31,6 +34,5 @@ He finds a greater part of his inspiration while watching period dramas and crim
 	<a href="link to shop" class="btn">Buy CD Album</a>
 </figure>
 
-### Sample Tracks
-{% spotify [spotify/artist/5brwziUK4V1H4YWHTC5p6e] %}
+
 
