@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 # Listen
-<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A37i9dQZF1DX84kJlLdo9vT" width="500" height="300" frameborder="0" allowtransparency="true"></iframe>
+Coming Soon ...
 
 # About the Artist
 
@@ -30,8 +30,8 @@ He finds a greater part of his inspiration while watching period dramas and crim
 
 <figure class="third">
     <a href="link to shop" class="btn">Preview</a>
-	<a href="link to shop" class="btn">Buy Digital</a>
 	<a href="link to shop" class="btn">Buy CD Album</a>
+	<a href="https://store.cdbaby.com/cd/novacasanova" class="btn">Buy Digital - CD Baby</a>
 </figure>
 
 

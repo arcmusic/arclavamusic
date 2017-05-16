@@ -134,6 +134,11 @@ hr {
    Figures and Images
    ========================================================================== */
 
+.outer {
+  display: block;
+  text-align: center;
+}
+
 figure {
   margin: 0;
   padding-top: 10px;
