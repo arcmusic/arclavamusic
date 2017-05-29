@@ -6,14 +6,14 @@ modified: 2017-03-31T14:17:25-04:00
 categories: artists
 tags: [nova casanova]
 image:
-  feature: nova_header.png
+  feature: header_nc.png
   credit: 
   creditlink:
 comments: true
 share: true
 ---
 # Listen
-Coming Soon ...
+<iframe name="full" style="width:100%;height:320px;border:0px;" src="//widget.cdbaby.com/16c69d8b-95c3-4d37-81b7-ad1103782af7/full/dark/transparent"></iframe>
 
 # About the Artist
 
@@ -25,14 +25,12 @@ He finds a greater part of his inspiration while watching period dramas and crim
 # Discography
 
 ### While They Were Dancing (2017)
-
-![While They Were Dancing Album Cover Tracklist 2017]({{ site.url }}/images/tracklist-wtwd.png)
-
 <figure class="third">
-    <a href="link to shop" class="btn">Preview</a>
-	<a href="link to shop" class="btn">Buy CD Album</a>
-	<a href="https://store.cdbaby.com/cd/novacasanova" class="btn">Buy Digital - CD Baby</a>
+	<a href="link to shop" class="btn">Buy Direct</a>
+	<a href="link to shop" class="btn">Buy Direct - Autographed</a>
+	<a href="https://store.cdbaby.com/cd/novacasanova" class="btn">Buy/Listen - CD Baby</a>
 </figure>
+![While They Were Dancing Album Cover Tracklist 2017]({{ site.url }}/images/tracklist-wtwd.png)
 
 
 
