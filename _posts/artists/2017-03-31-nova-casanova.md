@@ -26,8 +26,8 @@ He finds a greater part of his inspiration while watching period dramas and crim
 
 ### While They Were Dancing (2017)
 <figure class="third">
-	<a href="link to shop" class="btn">Buy Direct</a>
-	<a href="link to shop" class="btn">Buy Direct - Autographed</a>
+	<a href="http://novacasanova.tictail.com/product/nova-casanova-while-they-were-dancing-cd" class="btn">Buy Direct</a>
+	<a href="http://novacasanova.tictail.com/product/nova-casanova-while-they-were-dancing-autographed-cd" class="btn">Buy Direct - Autographed</a>
 	<a href="https://store.cdbaby.com/cd/novacasanova" class="btn">Buy/Listen - CD Baby</a>
 </figure>
 ![While They Were Dancing Album Cover Tracklist 2017]({{ site.url }}/images/tracklist-wtwd.png)
